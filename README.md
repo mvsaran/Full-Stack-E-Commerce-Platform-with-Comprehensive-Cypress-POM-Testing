@@ -669,22 +669,23 @@ Build a **simple, lightweight e-commerce web app** with:
 ## 📸 Screenshots
 
 ### Login Page
-![Login](https://via.placeholder.com/800x500/0EA5E9/FFFFFF?text=Login+Page)
+<img width="1883" height="1097" alt="Web APP" src="https://github.com/user-attachments/assets/43c96eb0-570d-4ebf-b363-273d5813c426" />
+
 
 ### Products Page
-![Products](https://via.placeholder.com/800x500/0EA5E9/FFFFFF?text=Products+Page)
+
+<img width="1861" height="1097" alt="Products page" src="https://github.com/user-attachments/assets/879e9af2-be35-4a0f-a2df-b3f7d6f6c5d8" />
 
 ### Shopping Cart
 ![Cart](https://via.placeholder.com/800x500/0EA5E9/FFFFFF?text=Shopping+Cart)
 
-### Checkout
-![Checkout](https://via.placeholder.com/800x500/0EA5E9/FFFFFF?text=Checkout+Page)
+### Checkout & Order Confirmation
 
-### Order Confirmation
-![Confirmation](https://via.placeholder.com/800x500/0EA5E9/FFFFFF?text=Order+Success)
+<img width="1117" height="1087" alt="CheckOut" src="https://github.com/user-attachments/assets/c8b2928a-1624-4e10-ba13-71902e8fdc51" />
 
 ### Cypress Tests Running
-![Tests](https://via.placeholder.com/800x500/0EA5E9/FFFFFF?text=Cypress+Tests)
+
+<img width="1275" height="1127" alt="Cypress Tests" src="https://github.com/user-attachments/assets/de09c35b-a402-4288-adc9-ec72f0e4efdc" />
 
 ---
 
@@ -870,10 +871,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Saran Kumar**
+- GitHub: [@mvsaran](https://github.com/mvsaran)
+- LinkedIn: [www.linkedin.com/in/saran-kumar-a69775215]
+- Email: mvsarankumar@gmail.com
 
 ---
 
