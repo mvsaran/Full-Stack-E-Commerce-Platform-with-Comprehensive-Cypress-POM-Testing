@@ -7,7 +7,8 @@
 
 A full-stack e-commerce web application built with **React**, **Express**, and **SQLite**, featuring comprehensive end-to-end and API testing using **Cypress** with Page Object Model (POM) pattern.
 
-![Project Banner](https://via.placeholder.com/1200x300/0EA5E9/FFFFFF?text=E-Commerce+Application+with+Cypress+Testing)
+![Project Banner](<img width="447" height="527" alt="image" src="https://github.com/user-attachments/assets/ed8a2d79-b070-4e4f-be5d-a3cc3d173fce" />)
+
 
 ---
 
